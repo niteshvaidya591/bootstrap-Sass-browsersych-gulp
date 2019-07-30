@@ -10,7 +10,7 @@
   "author": "Nitesh Vaidya",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2"
   },
